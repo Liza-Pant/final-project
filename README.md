@@ -1,4 +1,6 @@
 # final-project
+Установить командой в терминале pip install time
+Установить командой в терминале pip install os
 Запускать тесты командой python -m pytest -v --driver Chrome --driver-path chromedriver.exe
 
 test_open_main_page - проверка на загрузку страницы и сущестования основных элементов
